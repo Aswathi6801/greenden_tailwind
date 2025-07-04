@@ -36,3 +36,7 @@ A clean, responsive plant e-commerce frontend built with Tailwind CSS to showcas
 
 🌻 Why I did this:
 I’m practicing building clean, responsive, and scalable frontend projects to improve my real-world skills and design sense, focusing on structure, reusability, and UI/UX details.
+🌱 Live Preview & GitHub Repo:
+🖇️ [https://github.com/Aswathi6801/greenden_tailwind]
+🖇️ [https://aswathi6801.github.io/greenden_tailwind/]
+
